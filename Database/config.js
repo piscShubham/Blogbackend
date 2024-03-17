@@ -9,5 +9,4 @@ const con=mysql.createPool({
     
 })
 
-
 module.exports=con;
